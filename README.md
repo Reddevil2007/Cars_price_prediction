@@ -1,6 +1,4 @@
-# Cars_price_prediction
-
-## Car Price Prediction using Linear Regression
+# Car Price Prediction using Linear Regression
 
 This repository contains the implementation of linear regression from scratch to predict car prices.
 
